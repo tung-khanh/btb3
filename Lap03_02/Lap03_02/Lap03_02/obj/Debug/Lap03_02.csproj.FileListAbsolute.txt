@@ -1,0 +1,30 @@
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe.config
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\bin\Debug\Lap03_02.pdb
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Form1.resources
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.exe
+C:\Users\Administrator\source\repos\Lap03_02\Lap03_02\obj\Debug\Lap03_02.pdb
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe.config
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.pdb
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Form1.resources
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Properties.Resources.resources
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.exe
+C:\Users\pc\Downloads\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.pdb
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe.config
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.exe
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\bin\Debug\Lap03_02.pdb
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.AssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Form1.resources
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.GenerateResource.cache
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.exe
+C:\Users\Admin\AppData\Local\Temp\Zalo Temp\b309635c16155b54a35bb24eb128ff89~\Lap03_02\Lap03_02\Lap03_02\obj\Debug\Lap03_02.pdb
